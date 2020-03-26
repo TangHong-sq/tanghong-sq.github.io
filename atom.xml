@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanghong-sq.github.io</id>
     <title>Hong&apos;s Page</title>
-    <updated>2020-03-23T05:24:15.244Z</updated>
+    <updated>2020-03-26T08:54:19.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanghong-sq.github.io"/>
     <link rel="self" href="https://tanghong-sq.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://tanghong-sq.github.io/images/avatar.png</logo>
     <icon>https://tanghong-sq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hong&apos;s Page</rights>
+    <entry>
+        <title type="html"><![CDATA[draw.io输入数学公式]]></title>
+        <id>https://tanghong-sq.github.io/post/drawio-shu-ru-shu-xue-gong-shi/</id>
+        <link href="https://tanghong-sq.github.io/post/drawio-shu-ru-shu-xue-gong-shi/">
+        </link>
+        <updated>2020-03-26T08:51:22.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="方法">方法</h2>
+<p>在draw.io里面输入数学公式有三种方法。</p>
+<ol>
+<li>使用AsciiMath，使用``符号将公式围起来，比如`c^2`。</li>
+<li>使用latex也就是使用$$公式$$的形式。但是这个方法只能生成独立成行的公式。想要添加行内公式需要使用第三种方法。</li>
+<li>inline latex。在draw.io中inline latex不是使用单$的形式，而是使用\(以及\)的形式。例如\(e=m^2\) 。</li>
+</ol>
+<h2 id="实际效果">实际效果：</h2>
+<p>行内公式：</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/03/26/mI1UZC3ebMRxsjK.png" alt="image-20200326165009666" loading="lazy"></figure>
+<p>单行公式：</p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/03/26/WB7SipzwfoKEsu5.png" alt="image-20200326165034813" loading="lazy"></figure>
+<h2 id="reference">Reference</h2>
+<p><a href="https://desk.draw.io/support/solutions/articles/16000032875-how-to-use-mathematical-typesetting-">参考链接</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈希函数]]></title>
         <id>https://tanghong-sq.github.io/post/ha-xi-han-shu/</id>
