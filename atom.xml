@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tanghong-sq.github.io</id>
     <title>Hong&apos;s Page</title>
-    <updated>2020-03-26T08:54:19.153Z</updated>
+    <updated>2020-03-27T09:05:46.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tanghong-sq.github.io"/>
     <link rel="self" href="https://tanghong-sq.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://tanghong-sq.github.io/images/avatar.png</logo>
     <icon>https://tanghong-sq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hong&apos;s Page</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么要使用solidity]]></title>
+        <id>https://tanghong-sq.github.io/post/wei-shi-me-yao-shi-yong-solidity/</id>
+        <link href="https://tanghong-sq.github.io/post/wei-shi-me-yao-shi-yong-solidity/">
+        </link>
+        <updated>2020-03-27T09:02:46.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/44046040">&quot;合约编程语言 Solidity——Peter 王广忠&quot;</a><br>
+分享一片写的很好的文章，来自王广忠的《合约语言Solidity》。解决了我之前在面试中遇到，但是没有思考过的问题。这篇文章介绍了要使用solidity，而不是现有的一些语言。</p>
+<ul>
+<li>静态类型和强类型，同时有比较多小巧。solidity会在区块链上执行，因此其安全性非常的重要。如果使用javascript，python，这些语言是弱类型的，不够安全。如果使用java，C++，移植的工作量又比较大（当然有一些还是会使用C++，比如EOS）。另外，不同于javascript，typescript也具有强类型的特性，也有一些链在使用。比如国内的ultrain。</li>
+<li>智能合约是对特定的业务的支持。solidity可以针对智能合约的需求来设计，而现有的语言不一定满足。比如contract, address这些类型。</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/44046040">&quot;合约编程语言 Solidity——Peter 王广忠&quot;</a><br>
+分享一片写的很好的文章，来自王广忠的《合约语言Solidity》。解决了我之前在面试中遇到，但是没有思考过的问题。这篇文章介绍了要使用solidity，而不是现有的一些语言。</p>
+<ul>
+<li>静态类型和强类型，同时有比较多小巧。solidity会在区块链上执行，因此其安全性非常的重要。如果使用javascript，python，这些语言是弱类型的，不够安全。如果使用java，C++，移植的工作量又比较大（当然有一些还是会使用C++，比如EOS）。另外，不同于javascript，typescript也具有强类型的特性，也有一些链在使用。比如国内的ultrain。</li>
+<li>智能合约是对特定的业务的支持。solidity可以针对智能合约的需求来设计，而现有的语言不一定满足。比如contract, address这些类型。</li>
+</ul>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[draw.io输入数学公式]]></title>
         <id>https://tanghong-sq.github.io/post/drawio-shu-ru-shu-xue-gong-shi/</id>
